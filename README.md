@@ -9,3 +9,5 @@ Data Source: Yahoo Finance
 Requisites: A CSV file containing a list of the top 100 ETFs with a single row of ticker symbols and a column name "Symbol"
 
 Alternative Uses: Any input file can be utilized so long as it follows the proper formatting and the column header is named "Symbol", though this can easily be altered in the code. 
+
+![ETF](https://user-images.githubusercontent.com/65407421/196577048-45108455-fc67-450f-804a-e2a8b036f332.JPG)
